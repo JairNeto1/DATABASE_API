@@ -1,2 +1,3 @@
-# PostgressSQL_API
-Building a restfull API with PostgressSQL and Express
+# Node.js API
+
+Building a restfull API with DB and Express
